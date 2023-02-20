@@ -35,3 +35,7 @@ pyromod~=1.5
 gtts
 yt_dlp
 wget
+
+python-telegram-bot
+Pillow
+TgCrypto

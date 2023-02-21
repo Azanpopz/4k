@@ -35,4 +35,4 @@ yt_dlp
 wget
 aiohttp
 youtube_dl
-enums
+

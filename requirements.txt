@@ -62,7 +62,7 @@ yt-dlp
 youtube-dl
 youtube_search
 requests
-aiohttp==3.7.4
+aiohttp==3.7.3
 gTTS
 
 telegraph

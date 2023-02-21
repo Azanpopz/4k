@@ -41,3 +41,4 @@ speedtest-cli
 Pillow
 python-telegram-bot==10.1.0
 TgCrypto
+youtube_dl

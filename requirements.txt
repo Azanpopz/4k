@@ -36,9 +36,4 @@ aiohttp
 python-math
 Pillow
 speedtest-cli
-
-
-Pillow
-python-telegram-bot==10.1.0
-TgCrypto
-youtube_dl
+python-dotenv
